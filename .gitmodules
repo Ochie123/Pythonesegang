@@ -1,0 +1,3 @@
+[submodule "Chapter1/shopper/shopper"]
+	path = Chapter1/shopper/shopper
+	url = https://github.com/Ochie123/Pythonesegang.git
