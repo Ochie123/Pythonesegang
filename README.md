@@ -1,6 +1,7 @@
 ## Pythonesegang
 ### Pythonesegang
 
-### This is a beginner friendly tutorial available on our Youtube channel: https://youtube.com/@patpython?si=zq-GI4qTy9Yj99qA
+### This is a beginner friendly tutorial available on our Youtube channel: https://youtu.be/HxOKRNZpe20?si=cfFZln0Z0pU31Teh
 
 ### What we're building: svgcraft.co
+
